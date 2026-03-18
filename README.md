@@ -53,6 +53,7 @@ Pipeline automatizado utilizando GitHub Actions:
 ---
 
 ## 📁 Estrutura do Projeto
+```
 projeto_pipeline/
 │
 ├── src/
@@ -67,3 +68,4 @@ projeto_pipeline/
 ├── requirements.txt
 ├── README.md
 └── .github/workflows/ci.yml
+```
