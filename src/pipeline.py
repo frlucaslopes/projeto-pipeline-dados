@@ -13,7 +13,5 @@ def salvar_dados(df, caminho_saida):
 def executar_pipeline():
     df = carregar_dados("data/vendas.csv")
     df = calcular_faturamento(df)
-    salvar_dados(df, "data/output.csv")
-
 if __name__ == "__main__":
     executar_pipeline()
