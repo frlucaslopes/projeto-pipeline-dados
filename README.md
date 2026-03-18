@@ -4,7 +4,7 @@
 
 Projeto de pipeline de dados que realiza ingestão, transformação e cálculo de métricas de faturamento, com testes automatizados e integração contínua.
 
-Simula um cenário real de processamento de dados comerciais.
+Simula um pipeline de dados de ambiente produtivo, aplicando boas práticas de engenharia como testes automatizados e integração contínua.
 
 ---
 
