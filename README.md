@@ -50,4 +50,3 @@ projeto_pipeline/
 ├── requirements.txt
 ├── README.md
 └── .github/workflows/ci.yml
-
